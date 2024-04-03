@@ -8,5 +8,6 @@ Experimento de Aprendizado com Logic Tensor Networks
 3. Executar os blocos do inicio ao fim [Trab_IA_Final.ipynb](https://github.com/ayrtonlemes/TrabIA_Final/blob/main/Trab_IA_Final.ipynb)
 
 
-#Github utilizado como referência para geração das bounding box:
+# Github utilizado como referência para geração das bounding box:
+
 [Spartial-Relations](https://github.com/Odalisio-Neto/Spatial-Relations/tree/main)
