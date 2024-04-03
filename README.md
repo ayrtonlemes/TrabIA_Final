@@ -1,6 +1,6 @@
 # TrabIA_Final
 
-Experimento de Aprendizado com Logic Tensor Networks
+Experimento de Aprendizado com Logic Tensor Networks utilizando Bounding Boxes
 # Como visualizar o arquivo
 
 1. Criar um novo notebook no [Google Colab](https://colab.research.google.com/)
